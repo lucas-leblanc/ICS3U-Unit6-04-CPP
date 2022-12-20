@@ -1,6 +1,6 @@
-// Copyright (c) 2022 Kyanh Pham
+// Copyright (c) 2022 Lucas LeBlanc
 //
-// Created by: Kyanh Pham
+// Created by:Lucas LeBlanc
 // Created on: Dec 2022
 // This program uses 2d arrays
 
